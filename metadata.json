@@ -1,0 +1,5 @@
+{
+  "name": "Morphing Particle Interface",
+  "description": "A futuristic 3D particle system that morphs between a sphere and custom user text using Three.js and GSAP.",
+  "requestFramePermissions": []
+}
